@@ -1,5 +1,8 @@
 <div align="center">
 
+![ms+gh](https://github.com/user-attachments/assets/64dd4d41-efab-47fb-8d2b-96b6d6a08070)
+
+
 # 🚀 Vancouver Web Summit 2026 — GitHub Copilot SDK Hackathon
 
 ### **"Build an Agent Into Any App"**
@@ -13,6 +16,8 @@ _A hackathon challenge for builders to create customer-oriented MVPs powered by 
 **Whether you're a startup builder or an enterprise developer, this hackathon is for you!**
 
 [🏗️ Format](#-format) · [💡 What to Build](#-what-you-will-build) · [📦 Submit](#-submission-requirements) · [🏆 Prizes](#-prizes--benefits) · [🚀 Get Started](#-getting-started-kit)
+
+![wallpaper-copilot-mona-logo-generic](https://github.com/user-attachments/assets/7a731182-6865-4fe0-94d2-bc71a0ed81ac)
 
 </div>
 
