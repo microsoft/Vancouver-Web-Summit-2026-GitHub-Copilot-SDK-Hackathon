@@ -39,13 +39,15 @@ A hackathon challenge for **builders** to create customer-oriented MVPs powered 
 
 Here's what's at stake — and why you should build:
 
-### 🏅 Top 10 Finalists
+### 🏅 Top 10 Finalists — Pitch on **May 13, 2026**
 
 | Perk | Details |
 |---|---|
 | 🎟️ **Web Summit Tickets** | Up to **2 tickets per team** (valued at **$625 CAD each**) to [Web Summit Vancouver 2026](https://vancouver.websummit.com/) |
-| 🎤 **Pitch on the Microsoft Stage** | Present a lightning talk in the **Microsoft theater booth** at Web Summit — in front of investors, customers, and the tech community |
+| 🎤 **Pitch on the Microsoft Stage** | Present a lightning talk in the **Microsoft theater booth** at Web Summit on **May 13, 2026** — in front of investors, customers, and the tech community |
 | 📣 **Amplification** | Your project gets visibility across **Microsoft & GitHub social channels** |
+
+> ⚠️ **Travel & expenses are not covered.** Microsoft & GitHub provide the Web Summit tickets only. All travel, accommodation, and other expenses are the responsibility of the participants.
 
 ### 🥇 Top 3 Winners
 
@@ -58,8 +60,46 @@ Here's what's at stake — and why you should build:
 
 | Perk | Details |
 |---|---|
-| 🚀 **Startup Enablement** | Access the **Microsoft for Startups** program — GitHub Copilot Enterprise licenses for a year + 5,000 credits (public tier) |
+| 🚀 **Azure Credits for Startups** | Get up to **$5,000 in Azure Credits** through the [Azure Credits for Startups](https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0144p/) program. All qualifying participants receive an initial **$1,000 credit**; startups that complete business verification can unlock up to **$5,000** total. See [Eligibility & Fine Print](#-eligibility--fine-print) below. |
+| 🤖 **GitHub Copilot Access** | Access the **Microsoft for Startups** program — including GitHub Copilot Enterprise licenses for a year |
 | 🐙 **GitHub Vibes** | Join the builder community, connect with GitHub & Microsoft engineers, and earn serious dev cred |
+
+---
+
+## 📋 Eligibility & Fine Print
+
+### 🧑‍💻 Who Can Participate
+
+- **Individual developers, teams, and startups** are welcome.
+- **Enterprise and public-sector (PubSec) developers — you're invited!** We'd love to have you join as an **individual participant or team**. You just can't represent your employer's organization in the hackathon.
+- In other words: participate as **yourself, your team, or your startup** — not on behalf of an enterprise or government entity.
+
+### ☁️ Azure Credits — Startup Credit Package
+
+All qualifying participants can access up to **$5,000 in Azure Credits** via the [Azure Credits for Startups](https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0144p/) program ([Learn more on Microsoft Learn](https://learn.microsoft.com/en-us/partner/startup/azure-credits-for-startups)).
+
+**To qualify for the initial $1,000 credit:**
+
+- You must be a **new Azure customer** with no prior Azure account
+- You must sign in using a valid **personal Microsoft Account (MSA)**
+- You must be in a **country/region** where this Azure offer is available
+
+**To unlock up to $5,000 in Azure credits:**
+
+- You must have **redeemed the initial $1,000** startup credit
+- Your startup must be a **registered legal business entity**
+- Verification must be completed within **90 days** of initial redemption
+- You must **develop and own** a software-based product or service
+- The software must **not be licensed** from another party
+- You must **not** be a government agency, educational institution, consultancy, agency, development shop, personal blog, or crypto mining operation
+
+> 💡 **Can't complete business verification?** No worries — you will still receive the **$1,000 credit package**.
+
+### 🧳 Travel & Expenses
+
+- **Travel and expenses are not covered** by Microsoft or GitHub.
+- Only the **Web Summit ticket** is provided for Top 10 finalists (up to 2 per team).
+- All travel, accommodation, meals, and other expenses are the participant's responsibility.
 
 ---
 
@@ -126,6 +166,8 @@ Your entry **must include all of the following**:
 ### 📋 Submit via Microsoft Form
 
 👉 [**Submit Your Project Here**](https://forms.office.com/r/DA6t38w4D5) 👈
+
+> 📌 **Include your startup or team name** in the submission form so we can identify your entry.
 
 ---
 
@@ -236,6 +278,52 @@ npx -y @microsoft/workiq mcp
 ### 👉 [**Submit via Microsoft Form**](https://forms.office.com/r/DA6t38w4D5) 👈
 
 > ⏰ **Deadline: April 26, 2026 — PST Midnight**
+
+---
+
+## ❓ FAQ
+
+<details>
+<summary><strong>What are the Azure Credits for Startups?</strong></summary>
+
+Get up to **$5,000 in Azure Credits** through Microsoft's startup credit program. You start with a **$1,000 credit** as a new Azure customer, and can unlock up to **$5,000** by completing business verification for your startup. [Learn more →](https://learn.microsoft.com/en-us/partner/startup/azure-credits-for-startups)
+
+</details>
+
+<details>
+<summary><strong>Who is eligible to participate?</strong></summary>
+
+Individual developers, teams, and startups. **Enterprise and PubSec developers are absolutely welcome** — we'd love to have you! Just participate as yourself, your team, or your startup rather than representing your employer's organization.
+
+</details>
+
+<details>
+<summary><strong>Are travel and expenses covered?</strong></summary>
+
+**No.** Microsoft and GitHub provide Web Summit tickets only (up to 2 per team for Top 10 finalists). All travel, accommodation, meals, and other expenses are your responsibility.
+
+</details>
+
+<details>
+<summary><strong>What if I can't complete business verification for Azure Credits?</strong></summary>
+
+You will still receive the **$1,000 credit package**. The additional credits (up to $5,000 total) require your startup to be a registered legal business entity with verification completed within 90 days.
+
+</details>
+
+<details>
+<summary><strong>When do the Top 10 finalists pitch?</strong></summary>
+
+**May 13, 2026** — at the Microsoft theater booth during Web Summit Vancouver. Top 10 teams are notified by April 30 to prepare.
+
+</details>
+
+<details>
+<summary><strong>Can I participate if I work at a large company?</strong></summary>
+
+Absolutely — we'd love to have you! Enterprise and PubSec developers are very welcome. Just participate as **yourself, your team, or your startup** rather than representing your employer's organization.
+
+</details>
 
 ---
 
