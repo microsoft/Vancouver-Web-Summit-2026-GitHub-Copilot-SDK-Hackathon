@@ -13,7 +13,7 @@
 
 _A hackathon challenge for builders to create customer-oriented MVPs powered by the **GitHub Copilot SDK** — the agentic runtime behind Copilot experiences._
 
-**Whether you're a startup builder or an enterprise developer, this hackathon is for you!**
+**Whether you're a startup founder or an enterprise developer, this hackathon is for you!**
 
 [🏗️ Format](#-format) · [💡 What to Build](#-what-you-will-build) · [📦 Submit](#-submission-requirements) · [🏆 Prizes](#-prizes--benefits) · [🚀 Get Started](#-getting-started-kit)
 
@@ -53,15 +53,15 @@ Here's what's at stake — and why you should build:
 
 | Perk | Details |
 |---|---|
-| ☁️ **Azure Credits** | Up to **150K Azure credits** (provided by the global team) |
+| ☁️ **Azure Credits** | Up to **150K Azure credits** for eligible startups/founders (provided by the global team). Individuals are not eligible — participants must be aligned to a company. |
 | 📣 **Social Media Feature** | Featured project posts across **Microsoft & GitHub social channels** — massive reach |
 
 ### 🎁 All Participants
 
 | Perk | Details |
 |---|---|
-| 🚀 **Azure Credits for Startups** | Get up to **$5,000 in Azure Credits** through the [Azure Credits for Startups](https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0144p/) program. All qualifying participants receive an initial **$1,000 credit**; startups that complete business verification can unlock up to **$5,000** total. See [Eligibility & Fine Print](#-eligibility--fine-print) below. |
-| 🤖 **GitHub Copilot Access** | Access the **Microsoft for Startups** program — including GitHub Copilot Enterprise licenses for a year |
+| 🚀 **Azure Credits for Startups** | Eligible founders and startups can get up to **$5,000 in Azure Credits** through the [Azure Credits for Startups](https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0144p/) program. Qualifying startups receive an initial **$1,000 credit**; those that complete business verification can unlock up to **$5,000** total. Individuals without a company affiliation are not eligible. See [Eligibility & Fine Print](#-eligibility--fine-print) below. |
+| 🤖 **GitHub Copilot Access** | Access the **Microsoft for Startups** program — including GitHub Copilot Enterprise licenses for a year. Requires company/startup affiliation. |
 | 🐙 **GitHub Vibes** | Join the builder community, connect with GitHub & Microsoft engineers, and earn serious dev cred |
 
 ---
@@ -70,13 +70,14 @@ Here's what's at stake — and why you should build:
 
 ### 🧑‍💻 Who Can Participate
 
-- **Individual developers, teams, and startups** are welcome.
-- **Enterprise and public-sector (PubSec) developers — you're invited!** We'd love to have you join as an **individual participant or team**. You just can't represent your employer's organization in the hackathon.
-- In other words: participate as **yourself, your team, or your startup** — not on behalf of an enterprise or government entity.
+- **Founders, startup teams, and enterprise developers** are welcome.
+- Participants **must be aligned to a company** (startup, registered business, or employer) — individual participants without a company affiliation are not eligible for credits or the 150K prize.
+- **Enterprise and public-sector (PubSec) developers — you're invited!** We'd love to have you join as a **team or startup**. You just can't represent your employer's organization in the hackathon.
+- In other words: participate as **your team or your startup** — not on behalf of an enterprise or government entity.
 
 ### ☁️ Azure Credits — Startup Credit Package
 
-All qualifying participants can access up to **$5,000 in Azure Credits** via the [Azure Credits for Startups](https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0144p/) program ([Learn more on Microsoft Learn](https://learn.microsoft.com/en-us/partner/startup/azure-credits-for-startups)).
+Eligible founders and startups can access up to **$5,000 in Azure Credits** via the [Azure Credits for Startups](https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0144p/) program ([Learn more on Microsoft Learn](https://learn.microsoft.com/en-us/partner/startup/azure-credits-for-startups)). Individuals without a company affiliation are not eligible for this program.
 
 **To qualify for the initial $1,000 credit:**
 
@@ -167,7 +168,7 @@ Your entry **must include all of the following**:
 
 👉 [**Submit Your Project Here**](https://forms.office.com/r/DA6t38w4D5) 👈
 
-> 📌 **Include your startup or team name** in the submission form so we can identify your entry.
+> 📌 **Include your startup or company name** in the submission form so we can identify your entry.
 
 ---
 
@@ -286,14 +287,14 @@ npx -y @microsoft/workiq mcp
 <details>
 <summary><strong>What are the Azure Credits for Startups?</strong></summary>
 
-Get up to **$5,000 in Azure Credits** through Microsoft's startup credit program. You start with a **$1,000 credit** as a new Azure customer, and can unlock up to **$5,000** by completing business verification for your startup. [Learn more →](https://learn.microsoft.com/en-us/partner/startup/azure-credits-for-startups)
+Eligible founders and startups can get up to **$5,000 in Azure Credits** through Microsoft's startup credit program. You start with a **$1,000 credit** as a new Azure customer, and can unlock up to **$5,000** by completing business verification for your startup. Individuals without a company affiliation are not eligible. [Learn more →](https://learn.microsoft.com/en-us/partner/startup/azure-credits-for-startups)
 
 </details>
 
 <details>
 <summary><strong>Who is eligible to participate?</strong></summary>
 
-Individual developers, teams, and startups. **Enterprise and PubSec developers are absolutely welcome** — we'd love to have you! Just participate as yourself, your team, or your startup rather than representing your employer's organization.
+Founders, startup teams, and enterprise developers. Participants **must be aligned to a company** — individuals without a company affiliation are not eligible for credits or the 150K prize. **Enterprise and PubSec developers are absolutely welcome** — we'd love to have you! Just participate as your team or your startup rather than representing your employer's organization.
 
 </details>
 
@@ -321,7 +322,7 @@ You will still receive the **$1,000 credit package**. The additional credits (up
 <details>
 <summary><strong>Can I participate if I work at a large company?</strong></summary>
 
-Absolutely — we'd love to have you! Enterprise and PubSec developers are very welcome. Just participate as **yourself, your team, or your startup** rather than representing your employer's organization.
+Absolutely — we'd love to have you! Enterprise and PubSec developers are very welcome. Just participate as **your team or your startup** rather than representing your employer's organization. Note that participants must be aligned to a company to be eligible for credits and the 150K prize.
 
 </details>
 
