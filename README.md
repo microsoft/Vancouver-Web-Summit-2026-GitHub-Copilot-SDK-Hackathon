@@ -116,19 +116,19 @@ Eligible founders and startups can access up to **$5,000 in Azure Credits** via 
 
 ## 🏗️ Format
 
-> **Async Build → Async Judging → Top 10 Pitch → Winner Announced**
+> **Async Build → Async Judging → Winners Announced → Top 10 Pitch**
 
 ```
-📅 Apr 13        📝 Apr 26          ⚖️ Apr 26-29       📬 Apr 30         🎤 May 13          🏆 May 13
-Hackathon      Submissions       Async Judging       Top 10            Top 10 Pitch      Winners
-Opens          Due (PST)         Period              Notified          at Web Summit      Announced
+📅 Apr 13        📝 May 4           ⚖️ May 4-5         🏆 May 6          🎤 May 13
+Hackathon      Submissions       Async Judging       Winners           Top 10 Pitch
+Opens          Due (9 AM PST)    Period              Announced         at Web Summit
 ```
 
 1. **Async build period** — Teams build on their own time, anywhere in the world
 2. **Async judging period** — Entries are reviewed and scored asynchronously
-3. **Top 10 selection** — Top 10 teams are notified **2 weeks in advance** and invited to pitch
+3. **Top 10 selection** — Top 10 teams are notified and invited to pitch at Web Summit
 4. **Finals** — Top 10 pitch in the Microsoft booth theater (lightning talk format) at Web Summit
-5. **Winner announcement** — Announced during the event (same day as pitches)
+5. **Winner announcement** — Winners are announced on **May 6, 2026**, ahead of the Top 10 pitch at Web Summit
 
 ---
 
@@ -261,11 +261,11 @@ npx -y @microsoft/workiq mcp
 | Date                  | Milestone                                                           |
 | --------------------- | ------------------------------------------------------------------- |
 | **April 13, 2026**    | 🎉 Hackathon opens — promotions begin                               |
-| **April 26, 2026**    | 📝 **Submissions due** (PST Midnight)                               |
-| **April 26–29, 2026** | ⚖️ Async judging period                                             |
-| **April 30, 2026**    | 📬 Top 10 teams notified about Final Pitch                          |
+| **May 4, 2026**       | 📝 **Submissions due** (9 AM PST)                                   |
+| **May 4–5, 2026**     | ⚖️ Async judging period                                             |
+| **May 6, 2026**       | 🏆 **Winners announced** + 📬 Top 10 teams notified about Final Pitch |
 | **May 12–14, 2026**   | 🌐 Web Summit Vancouver expo days                                   |
-| **May 13, 2026**      | 🎤 **Top 10 pitch** at Microsoft theater + 🏆 **Winners announced** |
+| **May 13, 2026**      | 🎤 **Top 10 pitch** at Microsoft theater                            |
 
 ---
 
@@ -278,7 +278,7 @@ npx -y @microsoft/workiq mcp
 
 ### 👉 [**Submit via Microsoft Form**](https://forms.office.com/r/DA6t38w4D5) 👈
 
-> ⏰ **Deadline: April 26, 2026 — PST Midnight**
+> ⏰ **Deadline: May 4, 2026 — 9 AM PST**
 
 ---
 
@@ -315,7 +315,7 @@ You will still receive the **$1,000 credit package**. The additional credits (up
 <details>
 <summary><strong>When do the Top 10 finalists pitch?</strong></summary>
 
-**May 13, 2026** — at the Microsoft theater booth during Web Summit Vancouver. Top 10 teams are notified by April 30 to prepare.
+**May 13, 2026** — at the Microsoft theater booth during Web Summit Vancouver. Top 10 teams are notified by May 6 to prepare.
 
 </details>
 
