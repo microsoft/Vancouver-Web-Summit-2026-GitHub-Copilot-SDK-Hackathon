@@ -8,7 +8,7 @@
 ### **"Build an Agent Into Any App"**
 
 [![Hackathon](https://img.shields.io/badge/Hackathon-Vancouver_Web_Summit_2026-6f42c1?style=for-the-badge&logo=github)](https://vancouver.websummit.com/)
-[![Submissions Due](https://img.shields.io/badge/Submissions_Due-April_26_2026-red?style=for-the-badge)](https://forms.office.com/r/DA6t38w4D5)
+[![Submissions Due](https://img.shields.io/badge/Submissions_Due-May_4_2026-red?style=for-the-badge)](https://forms.office.com/r/DA6t38w4D5)
 [![Submit Now](https://img.shields.io/badge/Submit_Your_Project-Microsoft_Form-0078D4?style=for-the-badge&logo=microsoft)](https://forms.office.com/r/DA6t38w4D5)
 
 _A hackathon challenge for builders to create customer-oriented MVPs powered by the **GitHub Copilot SDK** — the agentic runtime behind Copilot experiences._
